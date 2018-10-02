@@ -8,6 +8,8 @@ This command line app allows customers, managers, and supervisors to interact wi
 
 Customers are able to view a table of available products and buy a specified quantity of one of those products.
 
+### Customer viewing products and buying new product
+
 ![Customer Screenshot](https://github.com/tmd913/bamazon-node/blob/master/screenshot5.png)
 
 ## Manager
